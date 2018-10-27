@@ -1,0 +1,7 @@
+C:\Users\etec\Documents\Ricardo\Lógica de Programação\Visual Studio 2017\alunosnotas\alunosnotas\bin\Debug\alunosnotas.exe.config
+C:\Users\etec\Documents\Ricardo\Lógica de Programação\Visual Studio 2017\alunosnotas\alunosnotas\bin\Debug\alunosnotas.exe
+C:\Users\etec\Documents\Ricardo\Lógica de Programação\Visual Studio 2017\alunosnotas\alunosnotas\bin\Debug\alunosnotas.pdb
+C:\Users\etec\Documents\Ricardo\Lógica de Programação\Visual Studio 2017\alunosnotas\alunosnotas\obj\Debug\alunosnotas.csprojAssemblyReference.cache
+C:\Users\etec\Documents\Ricardo\Lógica de Programação\Visual Studio 2017\alunosnotas\alunosnotas\obj\Debug\alunosnotas.csproj.CoreCompileInputs.cache
+C:\Users\etec\Documents\Ricardo\Lógica de Programação\Visual Studio 2017\alunosnotas\alunosnotas\obj\Debug\alunosnotas.exe
+C:\Users\etec\Documents\Ricardo\Lógica de Programação\Visual Studio 2017\alunosnotas\alunosnotas\obj\Debug\alunosnotas.pdb
